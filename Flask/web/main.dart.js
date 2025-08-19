@@ -8022,7 +8022,7 @@ _.d=d},
 aSt(){var s=0,r=A.q(t.H),q,p,o,n,m,l,k
 var $async$aSt=A.m(function(a,b){if(a===1)return A.n(b,r)
 while(true)switch(s){case 0:s=2
-return A.k(A.awd("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlsZ2Zna2xjeXBxdGJxcmtoc2JhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU3MDA4NzcsImV4cCI6MjA2MTI3Njg3N30.o3uGNWrn-AFnTZa4eWiTPGDZ01EI_6FjojV3W-mAIoc",B.Px,"https://ylgfgklcypqtbqrkhsba.supabase.co"),$async$aSt)
+return A.k(A.awd("sb_publishable_tcxKxITjQOaJNt6fyc0geQ_dV8ItNuf",B.Px,"https://ylgfgklcypqtbqrkhsba.supabase.co"),$async$aSt)
 case 2:if($.ap==null)A.aVw()
 q=$.ap
 q.toString
@@ -52393,7 +52393,7 @@ a9p(a,b){var s=0,r=A.q(t.T),q
 var $async$$2=A.m(function(c,d){if(c===1)return A.n(d,r)
 while(true)switch(s){case 0:s=3
 return A.k(A.Xg(),$async$$2)
-case 3:if(d!=="1.1"){q="/out_of_date"
+case 3:if(d!=="1.2"){q="/out_of_date"
 s=1
 break}case 1:return A.o(q,r)}})
 return A.p($async$$2,r)},
