@@ -56559,7 +56559,7 @@ G9(){var s=0,r=A.q(t.H),q=this,p
 var $async$G9=A.m(function(a,b){if(a===1)return A.n(b,r)
 while(true)switch(s){case 0:s=2
 return A.j(A.Xf(),$async$G9)
-case 2:if(b==="1.1"){p=q.c
+case 2:if(b==="1.3"){p=q.c
 p.toString
 A.cV(p).di(0,"/home",null)}return A.o(null,r)}})
 return A.p($async$G9,r)}}
